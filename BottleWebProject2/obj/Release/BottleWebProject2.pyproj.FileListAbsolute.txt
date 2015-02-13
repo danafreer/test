@@ -1,0 +1,9 @@
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\bin\AzureSetup.cfg
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\bin\wfastcgi.py
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\obj\Release\deployment-updated-orig-prefix.txt
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\ptvs_virtualenv_proxy.py
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\obj\Release\web.config
+c:\users\dana\documents\visual studio 2013\Projects\BottleWebProject2\BottleWebProject2\obj\Release\web.debug.config
